@@ -2,5 +2,6 @@
 	title = 'GitGet Installer',
 	repository = 'tommarekCZE/opus-apps/{{OPUS_BRANCH}}/gitget',
 	description = [[Program that allows download from github, gitget (user) (repo)]],
+	install='print("Skibidi toilet")',
 	license = 'MIT',
 }
